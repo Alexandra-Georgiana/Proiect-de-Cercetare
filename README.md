@@ -31,4 +31,4 @@ This repository contains the research project for the course **Proiect de Cercet
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/ai-art-research.git
+   git clone https://github.com/Alexandra-Georgiana/Proiect-de-Cercetare
