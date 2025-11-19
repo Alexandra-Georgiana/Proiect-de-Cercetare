@@ -32,3 +32,5 @@ This repository contains the research project for the course **Proiect de Cercet
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Alexandra-Georgiana/Proiect-de-Cercetare
+2. Paper files:
+   [Research document](https://docs.google.com/document/d/1zhHmkHidjPfwrHa34lzJmsVkmExQeebS9FXhLQjEwZU/edit?usp=sharing)
